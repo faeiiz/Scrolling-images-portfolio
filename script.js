@@ -32,7 +32,6 @@ document.querySelectorAll(".elem").forEach((elem) => {
           start: "top top",
           end: "bottom top",
           scrub: true,
-          markers: true,
         },
       },
       "start"
