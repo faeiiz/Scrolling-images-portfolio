@@ -15,3 +15,7 @@ body {
 .invert-text {
   filter: invert(1);
 }
+
+.elem img {
+  will-change: transform;
+}

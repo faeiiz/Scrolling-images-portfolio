@@ -1,6 +1,6 @@
 // Initialize Lenis
 const lenis = new Lenis({
-  duration: 2,
+  duration: 1,
 });
 function raf(time) {
   lenis.raf(time);
